@@ -1,0 +1,41 @@
+        <th>B</th>
+          <thead>
+            <th>PAÍS</th>
+            <th>BANDEIRA</th>
+          </thead>   
+
+        <th>C</th>
+          <thead>
+            <th>PAÍS</th>
+            <th>BANDEIRA</th>
+          </thead>
+
+        <th>D</th>
+          <thead>
+            <th>PAÍS</th>
+            <th>BANDEIRA</th>
+          </thead>
+
+        <th>E</th>
+          <thead>
+            <th>PAÍS</th>
+            <th>BANDEIRA</th>
+          </thead>
+
+        <th>F</th>
+          <thead>
+            <th>PAÍS</th>
+            <th>BANDEIRA</th>
+          </thead>
+
+        <th>G</th>
+          <thead>
+            <th>PAÍS</th>
+            <th>BANDEIRA</th>
+          </thead>
+
+        <th>H</th>
+          <thead>
+            <th>PAÍS</th>
+            <th>BANDEIRA</th>
+          </thead>
